@@ -1,9 +1,8 @@
-Npm init y
-Npm install -g typescript
-tsc script.ts
-open index.html
-
-tsc script.ts -w
+- Npm init y
+- Npm install -g typescript
+- tsc script.ts
+- open index.html
+- tsc script.ts -w
 
 
 live server
